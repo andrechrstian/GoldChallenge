@@ -1,0 +1,169 @@
+.ourService {
+    width: 1027px;
+    height: 428px;
+    margin-left: 206px;
+    margin-top: 100px;
+    background-color: transparent;
+    position: relative;
+}
+
+.con1 {
+    width: 1027px;
+    padding: 0%;
+    margin: 0%;
+
+}
+
+.row1 {
+    width: 1027px;
+    height: 428px;
+    padding: 0%;
+    margin: 0%;
+}
+
+.col1 {
+    width: 50%;
+}
+
+.col2 {
+    width: 50%;
+}
+
+.HG {
+    width: 459px;
+    height: 428px;
+    left: 206px;
+    top: 604px;
+
+}
+
+.Judulcol2 {
+    width: 468px;
+    height: 72px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+
+    color: #000000;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    padding: 0%;
+    margin-bottom: 16px;
+}
+
+.SubJudulcol2 {
+    width: 468px;
+    height: 80px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    padding: 0%;
+    margin: 0%;
+}
+
+.p {
+    padding: 0%;
+    margin: 0%;
+}
+
+.checklist {
+    padding :0%;
+   margin-top: 16px;
+    height: 184px;
+
+    font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+}
+
+.check1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 16px;
+
+    width: 309px;
+    height: 24px;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0%;
+}
+
+.check2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 16px;
+
+    width: 309px;
+    height: 24px;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin-top: 20px;
+}
+
+.check3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 16px;
+
+    width: 309px;
+    height: 24px;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin-top: 20px;
+}
+
+.check4 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 16px;
+
+    width: 309px;
+    height: 24px;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin-top: 20px;
+}
+
+.check5 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 16px;
+
+    width: 309px;
+    height: 24px;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin-top: 20px;
+}

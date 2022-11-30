@@ -1,0 +1,100 @@
+
+.FooterSec {
+    background: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0px;
+
+    position: absolute;
+    width: 1141px;
+    height: 128px;
+    margin-left: 136px;
+    top: 2998px;
+    margin-bottom: 100px;
+}
+
+.conFooter {
+    width: 1141px;
+    margin: 0%;
+}
+
+.rowFooter {
+    width: 1141px;
+    height: 128px;
+}
+
+.colFooter1 {
+    width: 25%;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+}
+    .alamatFooter {
+        padding-bottom: 16px;
+    }
+
+    .emailFooter {
+        padding-bottom: 16px;
+    }
+
+.colFooter2 {
+    width: 25%;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+    padding-left: 86px;
+}
+
+    .ourFooter {
+        padding-bottom: 16px;
+    }
+
+    .whyFooter {
+        padding-bottom: 16px;
+    }
+
+    .testiFooter {
+        padding-bottom: 16px;
+    }
+
+.colFooter3 {
+    width: 25%;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+}
+    .sosmedFooter {
+        padding-bottom: 16px;
+    }
+
+.colFooter4 {
+    width: 25%;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+    
+}
+    .logoFooter {
+        width: 100px;
+        height: 34px;
+        background-color: #0D28A6;
+        margin-top: 16px;
+    }
+
+
+
+
+

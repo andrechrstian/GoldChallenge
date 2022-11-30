@@ -1,0 +1,70 @@
+.ctabanner {
+    position: absolute;
+    width: 1168px;
+    height: 326px;
+    background: #0D28A6;
+    border-radius: 13px;
+    top: 2078px;
+    left: 136px;
+}
+
+.judulbanner {
+    height: 54px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 150%;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 64px;
+}
+
+.subjudulbanner {
+    height: 40px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-left: 342px;
+    margin-right: 358px;
+    margin-top: 16px;
+}
+
+.buttonMS1 {
+    box-sizing: border-box;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 12px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 140px;
+    height: 36px;
+  
+    
+    background: #5CB85F;
+    border-radius: 2px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size:13px;
+    line-height: 20px;
+
+    color: #FFFFFF;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+    margin-top: 52px;
+    margin-left: 514px;
+}
+
