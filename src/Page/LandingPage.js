@@ -6,6 +6,7 @@ import Footer from "../components/Footer"
 import WhyUsSection from '../components/WhyUsSection'
 import Ctasection from '../components/CtaSection'
 import FAQSection from '../components/FAQSection'
+import TestimoniSection from '../components/TestimoniSection'
 
 
 const LandingPage = () => {
@@ -15,6 +16,7 @@ const LandingPage = () => {
             <HeroSection />
             <ServiceSection />
             <WhyUsSection />
+            <TestimoniSection />
             <Ctasection />
             <FAQSection />
             <Footer />

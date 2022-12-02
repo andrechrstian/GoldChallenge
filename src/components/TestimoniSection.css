@@ -1,0 +1,108 @@
+.TestimoniSec {
+margin-top: 100px;
+}
+
+.judulcarousel {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    text-align: center;
+}
+
+.subjudulcarousel {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 16px;
+}
+
+
+.carousel1 {
+    height: 270px;
+   
+    margin-top: 40px;
+}
+
+
+.car1 {
+    
+    height: 270px;
+    width: 619px;
+    background: #F1F3FF;
+    margin-left: 410px;
+    margin-right: auto;
+
+}
+
+.testicon {
+    height: 270px;
+    width: 619px;
+    padding: 0%;
+}
+
+.raterow {
+    height: 270px;
+    width: 619px;
+    margin: 0%;
+}
+
+.ratecol1{
+    padding: 0%;
+    max-width: 172px;
+}
+
+.imgrate1 {
+    margin-top: 95px;
+    margin-left: 46px;
+}
+
+.ratecol2 {
+    margin-top: 69px;
+    padding: 0%;
+}
+
+.exp1 {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    width: 415px;
+    height: 80px;
+    margin-top: 8px;
+}
+
+.exp2{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 8px;
+}
+
+.gridtestcol1 {
+    width: 679px;
+    background: #F1F3FF;
+    margin-left: 32px;
+}
+
+.gridtesticon {
+    max-width: 1440px;
+    padding: 0%;
+   
+}
+
+.gridtestrow {
+  margin-top: 40px;
+  width: 1440px;
+}
+
+
+
+
+
+

@@ -1,0 +1,121 @@
+.filter-Bar {
+    position: absolute;
+    width: 1047px;
+    height: 106px;
+    background: #FFFFFF;
+    top: 490px;
+    left: 196px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+}
+
+.filCon {
+    width: 1047px;
+    height: 106px;
+    padding: 0%;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.filRow {
+    width: 1047px;
+    height: 106px;
+    margin: 0%;
+    
+}
+
+.filCol1 {
+    min-width: 208px;
+    margin-left: 24px;
+    padding: 0%;
+}
+
+.filCol2 {
+    min-width: 208px;
+    margin-left: 24px;
+    padding: 0%;
+}
+
+.filCol3 {
+    min-width: 219px;
+    margin-left: 24px;
+    padding: 0%;
+}
+
+.filCol4 {
+    min-width: 180px;
+    margin-left: 24px;
+    padding: 0%;
+}
+
+.filCol5 {
+    margin-right: 24px;
+    padding: 0%;
+}
+
+.namaMobil {
+    margin-top: 24px;
+    margin-bottom: 5px;
+}
+
+.inputMobil {
+    width: 208px;
+    height: 36px;
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    border-radius: 2px;
+}
+
+
+.kapsMobil {
+    width: 208px;
+    height: 36px;
+    background: #FFFFFF;
+    border: 1px solid #D0D0D0;
+    border-radius: 2px;
+    font-family: Arial;
+    color: #8A8A8A;
+}
+
+.hargaMobil {
+    width: 219px;
+    height: 36px;
+    background: #FFFFFF;
+    border: 1px solid #D0D0D0;
+    border-radius: 2px;
+    font-family: Arial;
+    color: #8A8A8A;
+}
+
+.statMobil {
+    width: 180px;
+    height: 36px;
+    background: #FFFFFF;
+    border: 1px solid #D0D0D0;
+    border-radius: 2px;
+    font-family: Arial;
+    color: #8A8A8A;
+}
+
+.btnCariMobil {
+    width: 92px;
+    height: 36px;
+    background: #5CB85F;
+    border-radius: 2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 46px;
+    margin-left: 19px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    color: #FFFFFF;    
+}
+
