@@ -1,0 +1,84 @@
+.cardetailcon{
+    top: 630px;
+    left: 199px;
+    width: 1047px;
+    position: absolute;
+    padding: 0%;
+}
+
+.cardetailrow{
+    height: 618px;
+    width: 1047px;
+    margin: 0%;
+}
+
+.carDetail1 {
+    min-width: 605px;
+    height: 618px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+ 
+}
+
+.carDetail2 {
+    height: 618px;
+}
+
+.isiDetail{
+    width: 405px;
+    height: 435px;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+}
+
+.data-card img{
+    width: 330px;
+    margin: 37px;
+}
+
+.datadtl-container {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    margin-left: 37px;
+}
+
+.carDetail1 h1{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    padding-top: 24px;
+    padding-left: 24px;
+}
+
+.carDetail1 h2{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    padding-left: 24px;
+    padding-top: 16px;
+}
+
+.carDetail1 li{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 175%;
+    color: #8A8A8A;
+    padding-left: 24px;
+}
+
+
+
+
+
+
+
