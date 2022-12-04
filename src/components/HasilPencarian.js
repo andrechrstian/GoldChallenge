@@ -3,20 +3,8 @@ import axios from "axios"
 import { useEffect, useState } from "react"
 import { Link } from "react-router-dom"
 
-const HasilPencarian = () => {
-
-    const [carData, setCardata] = useState ([]);
-    console.log(carData);
-    useEffect (() => {
-        axios
-            .get("https://bootcamp-rent-cars.herokuapp.com/customer/v2/car")
-            .then ( (res) => {
-                console.log (res);
-                setCardata(res.data.cars);
-            })
-            .catch((err) => console.log (err.message))
-            
-    }, []);
+const HasilPencarian = (props) => {
+const {carData}= props 
 
     return (
         
@@ -36,7 +24,7 @@ const HasilPencarian = () => {
                 </Link>
                 
             </div>
-        )) : null}
+        )) : <h1>data tidak ditemukan</h1>}
         </div>
 
     )
